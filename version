@@ -1,11 +1,21 @@
 {
-  "latest_version": "2.0.0",
-  "download_url": "https://gsm6.com/samsung-csc-changer-guide/",
-  "whats_new": [
-    "Reduced application load time by 40%",
-    "Added backup server support for improved stability", 
-    "Enhanced device information reading capabilities",
-    "Fixed various bugs and performance issues"
+  "app_version": "2.0.0",
+  "app_download_url": "https://gsm6.com/download/samsung-csc-changer",
+  "app_changelog": [
+    "Added Fallback Servers to maintain stability",
+    "Improved Device Detection Algorithm",
+    "Fixed known connectivity issues",
+    "User interface enhancements"
   ],
-  "release_date": "2025-11-30"
+  "app_release_date": "2024-11-15",
+  
+  "features_version": "2.0",
+  "features_data_url": "https://raw.githubusercontent.com/gsm6official/SamsungCSCChanger/main/csc_features.json",
+  "features_changelog": [
+    "Added support for One UI 8.0",
+    "Added support for Android 16.0",
+    "Updated security patch level compatibility",
+    "Enhanced CSC feature descriptions"
+  ],
+  "features_last_updated": "2024-11-20"
 }
