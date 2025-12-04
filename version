@@ -4,7 +4,7 @@
   "app_changelog": ["Enhanced CSC features display", "Added version checking system", "Improved UI/UX"],
   "app_release_date": "2025-11-15",
   
-  "features_version": "2.0",
+  "features_version": "2.1",
   "features_data_url": "https://raw.githubusercontent.com/gsm6official/SamsungCSCChanger/main/csc_features.json",
   "features_changelog": ["Added 25+ CSC profiles", "Included emoji indicators", "Added feature descriptions"],
   "features_last_updated": "2025-11-20"
