@@ -1,0 +1,171 @@
+{
+  "version": "2.0",
+  "last_updated": "2024-11-20",
+  "features": {
+    "INS": {
+      "emojis": ["🎙️", "💳"],
+      "features": [
+        "Native Call Recording",
+        "Scheduled SMS Sending",
+        "Call Icon in Call Logs",
+        "Advanced Call/Message Blocking",
+        "VoLTE/VoWiFi Always-On Toggle",
+        "Localized Samsung Pay/Bixby",
+        "Samsung Internet Default Desktop View",
+        "Network Speed Meter in Status Bar",
+        "Native App Lock",
+        "Data Usage in Notification Bar",
+        "4G/LTE Only Mode",
+        "Enhanced Smart Manager"
+      ]
+    },
+    "XXV": {
+      "emojis": ["🎙️", "💳"],
+      "features": [
+        "Native Call Recording",
+        "Scheduled SMS Sending",
+        "Call Icon in Call Logs",
+        "Advanced Call/Message Blocking",
+        "VoLTE/VoWiFi Always-On Toggle",
+        "Localized Samsung Pay/Bixby",
+        "Samsung Internet Default Desktop View",
+        "Network Speed Meter in Status Bar",
+        "Native App Lock",
+        "Data Usage in Notification Bar",
+        "4G/LTE Only Mode",
+        "Enhanced Smart Manager"
+      ]
+    },
+    "THL": {
+      "emojis": ["🎙️", "💳", "⚠️"],
+      "features": [
+        "Native Call Recording",
+        "Scheduled SMS Sending",
+        "Call Icon in Call Logs",
+        "Advanced Call/Message Blocking",
+        "VoLTE/VoWiFi Always-On Toggle",
+        "Localized Samsung Pay/Bixby",
+        "Samsung Internet Default Desktop View",
+        "Network Speed Meter in Status Bar",
+        "Native App Lock",
+        "Data Usage in Notification Bar",
+        "4G/LTE Only Mode",
+        "Enhanced Smart Manager"
+      ]
+    },
+    "XME": {
+      "emojis": ["💳", "⚠️"],
+      "features": [
+        "Scheduled SMS Sending",
+        "VoLTE/VoWiFi Always-On Toggle",
+        "Localized Samsung Pay/Bixby",
+        "Network Speed Meter in Status Bar",
+        "Native App Lock",
+        "Data Usage in Notification Bar",
+        "4G/LTE Only Mode",
+        "Enhanced Smart Manager"
+      ]
+    },
+    "ILO": {
+      "emojis": ["🎙️"],
+      "features": ["Native Call Recording"]
+    },
+    "EGY": {
+      "emojis": ["🎙️"],
+      "features": ["Native Call Recording"]
+    },
+    "XID": {
+      "emojis": ["🎙️"],
+      "features": ["Native Call Recording"]
+    },
+    "MYM": {
+      "emojis": ["🎙️", "⚠️"],
+      "features": [
+        "Native Call Recording",
+        "Scheduled SMS Sending",
+        "Network Speed Meter in Status Bar"
+      ]
+    },
+    "CAM": {
+      "emojis": ["🎙️"],
+      "features": ["Native Call Recording", "Scheduled SMS Sending"]
+    },
+    "NPL": {
+      "emojis": ["🎙️"],
+      "features": ["Native Call Recording"]
+    },
+    "SLK": {
+      "emojis": ["🎙️"],
+      "features": ["Native Call Recording"]
+    },
+    "BNG": {
+      "emojis": ["🎙️"],
+      "features": ["Native Call Recording"]
+    },
+    "LYS": {
+      "emojis": ["🎙️"],
+      "features": ["Native Call Recording"]
+    },
+    "TUN": {
+      "emojis": ["🎙️"],
+      "features": ["Native Call Recording"]
+    },
+    "ZTO": {
+      "emojis": ["🎙️", "💳"],
+      "features": ["Native Call Recording", "Localized Samsung Pay/Bixby"]
+    },
+    "SAR": {
+      "emojis": ["💳"],
+      "features": ["Localized Samsung Pay/Bixby"]
+    },
+    "MID": {
+      "emojis": ["💳"],
+      "features": ["Localized Samsung Pay/Bixby"]
+    },
+    "KSA": {
+      "emojis": ["💳"],
+      "features": ["Localized Samsung Pay/Bixby"]
+    },
+    "CHC": {
+      "emojis": ["⚠️"],
+      "features": ["No Google Mobile Services / Region locked"]
+    },
+    "CHN": {
+      "emojis": ["⚠️"],
+      "features": ["No Google Mobile Services / Region locked"]
+    },
+    "CHM": {
+      "emojis": ["⚠️"],
+      "features": ["No Google Mobile Services / Region locked"]
+    },
+    "CTC": {
+      "emojis": ["⚠️"],
+      "features": ["No Google Mobile Services / Region locked"]
+    },
+    "KOR": {
+      "emojis": ["⚠️"],
+      "features": ["Mandatory Camera Shutter Sound / 5G restrictions"]
+    },
+    "KDI": {
+      "emojis": ["💳", "⚠️"],
+      "features": [
+        "FeliCa / Local NFC Payment Support",
+        "5G restrictions / Japan regional limits"
+      ]
+    },
+    "SBM": {
+      "emojis": ["💳", "⚠️"],
+      "features": [
+        "FeliCa / Local NFC Payment Support",
+        "5G restrictions / Japan regional limits"
+      ]
+    },
+    "DCM": {
+      "emojis": ["💳", "⚠️"],
+      "features": [
+        "FeliCa / Local NFC Payment Support",
+        "5G restrictions / Japan regional limits"
+      ]
+    }
+  }
+}
