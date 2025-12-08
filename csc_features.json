@@ -1,7 +1,15 @@
 {
   "version": "2.2",
-  "last_updated": "2025-11-20",
-  "features":
+  "last_updated": "2024-12-15",
+  "csc_features": {
+    "AIO": {
+      "icons": ["danger"],
+      "country": "United States",
+      "carrier": "AT&T/Cricket",
+      "features": ["Check Carrier"],
+      "warnings": ["DATA_WIPE_REQUIRED"],
+      "status": "carrier_locked"
+    },:
   {
   "AIO": {
     "icons": ["danger"],
