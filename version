@@ -1,7 +1,7 @@
 {
-  "app_version": "2.0.0",
-  "app_download_url": "https://gsm6.com/download/samsung-csc-changer",
-  "app_changelog": ["Enhanced CSC features display", "Added version checking system", "Improved UI/UX"],
+  "app_version": "2.12.112025",
+  "app_download_url": "https://gsm6.com/download/samsung-csc-changer-guide/",
+  "app_changelog": ["Enhanced CSC features display", "Added version checking system", "Improved UI/UX", "added support android 16", "now support one ui 8 & newer"],
   "app_release_date": "2025-11-15",
   
   "features_version": "2.12.092025",
