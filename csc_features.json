@@ -6,7 +6,7 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "AT&T/Cricket",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -14,7 +14,7 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "AT&T",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -22,7 +22,7 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "C Spire",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -30,7 +30,7 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "Metro PCS",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -38,7 +38,7 @@
       "icons": ["danger"],
       "country": "North America",
       "region": "North America Region",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "region_locked"
     },
@@ -46,7 +46,7 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "Tracfone",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -54,7 +54,7 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "Boost Mobile",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -62,7 +62,7 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "Sprint",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -70,7 +70,7 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "T-Mobile",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -78,7 +78,7 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "US Cellular",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -86,7 +86,7 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "Verizon",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -94,7 +94,7 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "Tracfone",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -102,7 +102,7 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "Unlocked",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "unlocked"
     },
@@ -110,14 +110,14 @@
       "icons": ["danger"],
       "country": "United States",
       "carrier": "Factory Unlocked",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "factory_unlocked"
     },
     "CHC": {
       "icons": ["danger", "warning"],
       "country": "China",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["NO_GOOGLE_SERVICES", "REGION_LOCKED"],
       "critical_changes": ["Google Services not available"],
       "status": "region_locked"
@@ -125,7 +125,7 @@
     "CHM": {
       "icons": ["danger", "warning"],
       "country": "China",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["NO_GOOGLE_SERVICES", "REGION_LOCKED"],
       "critical_changes": ["Google Services not available"],
       "status": "region_locked"
@@ -133,7 +133,7 @@
     "CHN": {
       "icons": ["danger", "warning"],
       "country": "China",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["NO_GOOGLE_SERVICES", "REGION_LOCKED"],
       "critical_changes": ["Google Services not available"],
       "status": "region_locked"
@@ -142,7 +142,7 @@
       "icons": ["danger", "warning"],
       "country": "China",
       "carrier": "China Telecom",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["NO_GOOGLE_SERVICES", "REGION_LOCKED"],
       "critical_changes": ["Google Services not available"],
       "status": "carrier_locked"
@@ -151,7 +151,7 @@
       "icons": ["danger"],
       "country": "Canada",
       "carrier": "Bell",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -159,7 +159,7 @@
       "icons": ["danger"],
       "country": "Canada",
       "carrier": "SaskTel",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -167,7 +167,7 @@
       "icons": ["danger"],
       "country": "Canada",
       "carrier": "Rogers",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["DATA_WIPE_REQUIRED"],
       "status": "carrier_locked"
     },
@@ -334,7 +334,7 @@
     "KOR": {
       "icons": ["warning"],
       "country": "South Korea",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "warnings": ["MANDATORY_CAMERA_SOUND", "5G_RESTRICTIONS"],
       "critical_changes": ["Mandatory Camera Shutter Sound", "5G restrictions apply"],
       "status": "restricted"
@@ -368,844 +368,844 @@
     "PAK": {
       "icons": ["global"],
       "country": "Pakistan",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "AFR": {
       "icons": ["global"],
       "country": "Africa Region",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ATO": {
       "icons": ["global"],
       "country": "Austria",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ACR": {
       "icons": ["global"],
       "country": "Saudi Arabia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "AUS": {
       "icons": ["global"],
       "country": "Australia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "AUT": {
       "icons": ["global"],
       "country": "Switzerland",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "AFG": {
       "icons": ["global"],
       "country": "Afghanistan",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ALG": {
       "icons": ["global"],
       "country": "Algeria",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ARG": {
       "icons": ["global"],
       "country": "Argentina",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "BTU": {
       "icons": ["global"],
       "country": "United Kingdom",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "BOG": {
       "icons": ["global"],
       "country": "Colombia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "BRI": {
       "icons": ["global"],
       "country": "Taiwan",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "BHT": {
       "icons": ["global"],
       "country": "Bhutan",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "BGL": {
       "icons": ["global"],
       "country": "Bulgaria",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "BVO": {
       "icons": ["global"],
       "country": "Bolivia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "BWA": {
       "icons": ["global"],
       "country": "Botswana",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "BTT": {
       "icons": ["global"],
       "country": "Greece",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "CEL": {
       "icons": ["global"],
       "country": "Israel",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "COL": {
       "icons": ["global"],
       "country": "Colombia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "COO": {
       "icons": ["global"],
       "country": "Colombia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "CPA": {
       "icons": ["global"],
       "country": "Panama",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "CPW": {
       "icons": ["global"],
       "country": "United Kingdom",
       "carrier": "Carphone Warehouse",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "CSC": {
       "icons": ["global"],
       "country": "Multi-region",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "CYO": {
       "icons": ["global"],
       "country": "Cyprus",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "DBT": {
       "icons": ["global"],
       "country": "Germany",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "DNA": {
       "icons": ["global"],
       "country": "Finland",
       "carrier": "DNA",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "DRE": {
       "icons": ["global"],
       "country": "Greece",
       "carrier": "WIND",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "DTM": {
       "icons": ["global"],
       "country": "Germany",
       "carrier": "T-Mobile",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "DHR": {
       "icons": ["global"],
       "country": "Croatia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "DUO": {
       "icons": ["global"],
       "country": "Netherlands",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "DSE": {
       "icons": ["global"],
       "country": "Greece",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "EON": {
       "icons": ["global"],
       "country": "Bulgaria",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "EBE": {
       "icons": ["global"],
       "country": "Belgium",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "EEA": {
       "icons": ["global"],
       "country": "Europe",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "EUR": {
       "icons": ["global"],
       "country": "Europe",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ESP": {
       "icons": ["global"],
       "country": "Spain",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ETL": {
       "icons": ["global"],
       "country": "Ethiopia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "FRA": {
       "icons": ["global"],
       "country": "France",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "FET": {
       "icons": ["global"],
       "country": "Taiwan",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "FTM": {
       "icons": ["global"],
       "country": "France",
       "carrier": "Orange",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "FWD": {
       "icons": ["global"],
       "country": "Iraq",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "GBR": {
       "icons": ["global"],
       "country": "United Kingdom",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "GLX": {
       "icons": ["global"],
       "country": "Greece",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "GTO": {
       "icons": ["global"],
       "country": "Mexico",
       "carrier": "Telcel",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "GUL": {
       "icons": ["global"],
       "country": "Kuwait",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "GIN": {
       "icons": ["global"],
       "country": "Guinea",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "GCF": {
       "icons": ["global"],
       "country": "Global",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "HIT": {
       "icons": ["global"],
       "country": "Croatia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "HIN": {
       "icons": ["global"],
       "country": "India",
       "carrier": "Hutch",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "HKG": {
       "icons": ["global"],
       "country": "Hong Kong",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "HSN": {
       "icons": ["global"],
       "country": "Hong Kong",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "HTS": {
       "icons": ["global"],
       "country": "India",
       "carrier": "Airtel",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "INU": {
       "icons": ["global"],
       "country": "India",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ITE": {
       "icons": ["global"],
       "country": "Italy",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ITV": {
       "icons": ["global"],
       "country": "Italy",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "IRE": {
       "icons": ["global"],
       "country": "Ireland",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "IRN": {
       "icons": ["global"],
       "country": "Iran",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "IDM": {
       "icons": ["global"],
       "country": "Iraq",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "JPN": {
       "icons": ["global"],
       "country": "Japan",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "JDI": {
       "icons": ["global"],
       "country": "Japan",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "JTL": {
       "icons": ["global"],
       "country": "Japan",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "KOO": {
       "icons": ["global"],
       "country": "South Korea",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "KWT": {
       "icons": ["global"],
       "country": "Kuwait",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "KEN": {
       "icons": ["global"],
       "country": "Kenya",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "LUX": {
       "icons": ["global"],
       "country": "Luxembourg",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "LAO": {
       "icons": ["global"],
       "country": "Laos",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "LBN": {
       "icons": ["global"],
       "country": "Lebanon",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "LKA": {
       "icons": ["global"],
       "country": "Sri Lanka",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "MEO": {
       "icons": ["global"],
       "country": "Portugal",
       "carrier": "MEO",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "MAT": {
       "icons": ["global"],
       "country": "Morocco",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "MEX": {
       "icons": ["global"],
       "country": "Mexico",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "MWD": {
       "icons": ["global"],
       "country": "Mauritania",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "MM1": {
       "icons": ["global"],
       "country": "Singapore",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "MBM": {
       "icons": ["global"],
       "country": "Brazil",
       "carrier": "TIM",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "MOT": {
       "icons": ["global"],
       "country": "Brazil",
       "carrier": "Claro",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "MDR": {
       "icons": ["global"],
       "country": "Moldova",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "NEE": {
       "icons": ["global"],
       "country": "Nordic Countries",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "NZC": {
       "icons": ["global"],
       "country": "New Zealand",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "NGC": {
       "icons": ["global"],
       "country": "Nigeria",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "OJM": {
       "icons": ["global"],
       "country": "Middle East",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "OJP": {
       "icons": ["global"],
       "country": "Middle East",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "OMN": {
       "icons": ["global"],
       "country": "Oman",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "OPS": {
       "icons": ["global"],
       "country": "Australia",
       "carrier": "Optus",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ORX": {
       "icons": ["global"],
       "country": "Romania",
       "carrier": "Orange",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "PDO": {
       "icons": ["global"],
       "country": "Portugal",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "PEO": {
       "icons": ["global"],
       "country": "Peru",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "PHN": {
       "icons": ["global"],
       "country": "Netherlands",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "PHE": {
       "icons": ["global"],
       "country": "Spain",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "PHI": {
       "icons": ["global"],
       "country": "Philippines",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "PHA": {
       "icons": ["global"],
       "country": "Thailand",
       "carrier": "TrueMove",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "PLS": {
       "icons": ["global"],
       "country": "Poland",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "QAT": {
       "icons": ["global"],
       "country": "Qatar",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "QUA": {
       "icons": ["global"],
       "country": "Australia",
       "carrier": "Telstra",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ROM": {
       "icons": ["global"],
       "country": "Romania",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "RUS": {
       "icons": ["global"],
       "country": "Russia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "SER": {
       "icons": ["global"],
       "country": "Russia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "SEK": {
       "icons": ["global"],
       "country": "Ukraine",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "SKZ": {
       "icons": ["global"],
       "country": "Kazakhstan",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "SIN": {
       "icons": ["global"],
       "country": "Singapore",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "STH": {
       "icons": ["global"],
       "country": "South Africa",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "SKC": {
       "icons": ["global"],
       "country": "South Korea",
       "carrier": "SK Telecom",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "SKT": {
       "icons": ["global"],
       "country": "South Korea",
       "carrier": "SKT",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "SFR": {
       "icons": ["global"],
       "country": "France",
       "carrier": "SFR",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "SAU": {
       "icons": ["global"],
       "country": "Saudi Arabia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "TLS": {
       "icons": ["global"],
       "country": "Australia",
       "carrier": "Telstra",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "TPA": {
       "icons": ["global"],
       "country": "Panama",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "TUR": {
       "icons": ["global"],
       "country": "Turkey",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "TMC": {
       "icons": ["global"],
       "country": "South Africa",
       "carrier": "Telkom",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "TTT": {
       "icons": ["global"],
       "country": "Trinidad & Tobago",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "UUU": {
       "icons": ["global"],
       "country": "Multi-region",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "UPO": {
       "icons": ["global"],
       "country": "Uruguay",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "UZB": {
       "icons": ["global"],
       "country": "Uzbekistan",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "VAU": {
       "icons": ["global"],
       "country": "Australia",
       "carrier": "Vodafone AU",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "VOD": {
       "icons": ["global"],
       "country": "United Kingdom",
       "carrier": "Vodafone",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "VNX": {
       "icons": ["global"],
       "country": "Vietnam",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "VGR": {
       "icons": ["global"],
       "country": "Greece",
       "carrier": "Vodafone Greece",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "WST": {
       "icons": ["global"],
       "country": "West Africa",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XEF": {
       "icons": ["global"],
       "country": "France",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XEH": {
       "icons": ["global"],
       "country": "Hungary",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XEO": {
       "icons": ["global"],
       "country": "Poland",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XEU": {
       "icons": ["global"],
       "country": "UK/Ireland",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XSP": {
       "icons": ["global"],
       "country": "Singapore",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XSG": {
       "icons": ["global"],
       "country": "United Arab Emirates",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XTC": {
       "icons": ["global"],
       "country": "Philippines",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XFE": {
       "icons": ["global"],
       "country": "South Africa",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XNZ": {
       "icons": ["global"],
       "country": "New Zealand",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XSA": {
       "icons": ["global"],
       "country": "Australia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XFA": {
       "icons": ["global"],
       "country": "South Africa",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XSI": {
       "icons": ["global"],
       "country": "Indonesia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "XBR": {
       "icons": ["global"],
       "country": "Brazil",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "YEM": {
       "icons": ["global"],
       "country": "Yemen",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "YUG": {
       "icons": ["global"],
       "country": "Serbia",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ZTM": {
       "icons": ["global"],
       "country": "Brazil",
       "carrier": "Claro",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ZVV": {
       "icons": ["global"],
       "country": "Brazil",
       "carrier": "VIVO",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ZTA": {
       "icons": ["global"],
       "country": "Brazil",
       "carrier": "TIM",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     },
     "ZTR": {
       "icons": ["global"],
       "country": "Brazil",
       "carrier": "Oi",
-      "features": ["Check Carrier"],
+      "features": ["Default"],
       "status": "global"
     }
   }
