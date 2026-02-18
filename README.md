@@ -6,7 +6,7 @@
 A powerful, user-friendly Windows utility to safely change the CSC (Country Specific Code) on Samsung Galaxy devices. Unlock regional features like Native Call Recording and Samsung Pay **without root, without tripping Knox, and without data loss**.
 
 <p align="center">
-  <img src="URL_TO_YOUR_SCREENSHOT.png" alt="Samsung CSC Changer Tool Screenshot" width="600"/>
+  <img src="[URL_TO_YOUR_SCREENSHOT.png](https://raw.githubusercontent.com/gsm6official/SamsungCSCChanger/refs/heads/main/Samsung-csc-changer-tool-by-gsm6-screenshot.jpg)" alt="Samsung CSC Changer Tool Screenshot" width="600"/>
 </p>
 
 ## ✨ Features
