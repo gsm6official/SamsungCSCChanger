@@ -1,21 +1,27 @@
-MIT License
+# License
 
-Copyright (c) 2026 gsm6official
+## Samsung CSC Changer Tool
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright © 2026 GSM6 Official (Abdul Malik)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+All rights reserved.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This software is provided as **freeware** - completely free to use for personal and professional purposes.
+
+### Terms of Use:
+- ✅ Free to download and use
+- ✅ Free to share the original installer
+- ❌ Modifying, decompiling, or reverse engineering is not permitted
+- ❌ Selling or renting this software is not permitted
+- ❌ Claiming as your own work is not permitted
+
+### Source Code:
+The source code is **not publicly available**. The tool is distributed as a compiled executable to:
+- Protect the server-side infrastructure that enables automatic updates
+- Prevent Samsung from easily patching the method
+- Maintain user safety by controlling database integrity
+
+### Disclaimer:
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. The authors are not responsible for any damage to your device, loss of data, or other issues that may arise from using this tool.
+
+For support, visit: https://gsm6.com
