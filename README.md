@@ -66,7 +66,7 @@ If you find this tool useful, please consider giving it a ⭐ on GitHub!
 
 ## 📄 License
 
-This project is licensed under a Freeware/Open Source License - see the [LICENSE](LICENSE) file for details. The source code is available for educational and transparency purposes.
+The tool is free to use - no license purchase required! 😊
 
 ## 🙏 Acknowledgments
 
