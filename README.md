@@ -42,7 +42,7 @@ The guide covers everything from prerequisites to post-change verification and t
 
 ## 📸 Screenshots
 
-*(Consider adding 2-3 screenshots here showing the main interface, the feature-detection dropdown, and the operation logs.)*
+*(check official website page for screenshots & detailed how to guide)*
 
 ## 📋 Specifications
 
