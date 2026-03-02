@@ -186,7 +186,7 @@
         "Enhanced Smart Manager"
       ],
       "warnings": ["LTE_ONLY_MODE"],
-      "critical_changes": ["4G/LTE Only Mode (Not Suitable for 5G Devices)"],
+      "critical_changes": ["5G may won't work on some devices"],
       "status": "feature_rich"
     },
     "XXV": {
@@ -224,7 +224,7 @@
         "Enhanced Smart Manager"
       ],
       "warnings": ["LTE_ONLY_MODE"],
-      "critical_changes": ["4G/LTE Only Mode (Not Suitable for 5G Devices)"],
+      "critical_changes": ["5G may won't work on some devices"],
       "status": "feature_rich"
     },
     "XME": {
